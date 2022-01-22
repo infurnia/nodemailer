@@ -1,5 +1,5 @@
 {
-    "name": "nodemailer",
+    "name": "@infurnia/nodemailer",
     "version": "6.7.2",
     "description": "Easy as cake e-mail sending from your Node.js applications",
     "main": "lib/nodemailer.js",
@@ -8,15 +8,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/nodemailer/nodemailer.git"
+        "url": "https://github.com/infurnia/nodemailer.git"
     },
     "keywords": [
-        "Nodemailer"
+        "Nodemailer",
+        "infurnia"
     ],
     "author": "Andris Reinman",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/nodemailer/nodemailer/issues"
+        "url": "https://github.com/infurnia/nodemailer/issues"
     },
     "homepage": "https://nodemailer.com/",
     "devDependencies": {
